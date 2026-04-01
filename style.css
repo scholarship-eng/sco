@@ -1,0 +1,14 @@
+.laptop{
+    color: pink;
+    margin: 50px    ;
+    padding: 100px;
+}
+.laptop .keyboard{
+    padding: 50px;
+}
+.mobile{
+    color: green;
+}
+.book{
+    color: red;
+}
